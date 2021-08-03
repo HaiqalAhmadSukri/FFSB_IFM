@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375496841308",
+    "project_id": "ecmr-f5868",
+    "storage_bucket": "ecmr-f5868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375496841308:android:bafff7c96e030f1832ee99",
+        "android_client_info": {
+          "package_name": "com.example.tolonglah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375496841308-ql0otgs4lfsa9on7f77daabkl54dp14p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hdqKvkiBpjhjP7E5uyO8smEOCgXLhio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375496841308-ql0otgs4lfsa9on7f77daabkl54dp14p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
